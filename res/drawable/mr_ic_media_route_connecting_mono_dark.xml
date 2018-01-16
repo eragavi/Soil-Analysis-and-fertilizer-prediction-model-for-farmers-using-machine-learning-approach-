@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:duration="500" android:drawable="@drawable/ic_media_route_on_0_mono_dark" />
+    <item android:duration="500" android:drawable="@drawable/ic_media_route_on_1_mono_dark" />
+    <item android:duration="500" android:drawable="@drawable/ic_media_route_on_2_mono_dark" />
+    <item android:duration="500" android:drawable="@drawable/ic_media_route_on_1_mono_dark" />
+</animation-list>
